@@ -1,0 +1,8 @@
+{
+  "name": "store-verifier-api",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "vars": {
+    "ALLOWED_ORIGIN": "https://verifier-store.9fwkhmmnr2.workers.dev"
+  }
+}
